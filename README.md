@@ -9,7 +9,8 @@ How can I help the city of Calgary improve itself with this dataset? What issues
 After this analysi, what steps should we take to help excute the City's goal what is crucial to set these goals?  
 
 Use PowerBI to visualize this data.  
-
+Main Objective:  
+What is the main objective what are you trying to uncover with this data?? -> WHAT is the MAIN BUISINESS PROBLEM WITH THIS data????
 Questions:  
 Can you solve business plans with Data???  
 1. Why are some plans not progressing as planned and what steps do we need to take?  
