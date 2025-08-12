@@ -8,7 +8,8 @@ Liscence URL:	https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa
 How can I help the city of Calgary improve itself with this dataset? What issues are we constanltly facing and how can we fix it in a timely manner. What is this data telling us? What are we doing well?  
 After this analysi, what steps should we take to help excute the City's goal what is crucial to set these goals?  
 
-Use Tablue public to filter the data and answer business problems. Then display this on linked in to showcase your skills. This project will have a 5/5 ROI
+Use Tablue public to filter the data and answer business problems. Then display this on linked in to showcase your skills. This project will have a 5/5 ROI 
+You're not just reporting you are RECOMMENDING
 Use Excel to visualize this data, use pivot table and VLOOKUP.  
 Main Objective:  
 What is the main objective what are you trying to uncover with this data?? -> WHAT is the MAIN BUISINESS PROBLEM WITH THIS data????
