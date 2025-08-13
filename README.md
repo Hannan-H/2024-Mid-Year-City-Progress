@@ -25,6 +25,8 @@ Can you solve business plans with Data???
 
 
 ---------------------------------------------------------------
+Make sure you talk about what skills you used for this project so you can put it on your resume when you go to the Career fair.
+
 Steps: 
 Cleaned data by removing null values because they were not reported on and don't offer any important insights.
 1. Where and how is the city growing (demographically and geographically)?
