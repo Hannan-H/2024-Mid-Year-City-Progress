@@ -29,53 +29,64 @@ Make sure you talk about what skills you used for this project so you can put it
 
 Steps: 
 Cleaned data by removing null values because they were not reported on and don't offer any important insights.
-1. Where and how is the city growing (demographically and geographically)?
-Why it matters: Understanding population growth, migration patterns, and urban sprawl helps in infrastructure planning, housing, and public services.
+1. Rising Costs, Inflation & Supply Chain Instability
 
-Key data sources: Census data, satellite imagery, housing permits, mobile GPS data. 
+Calgary businesses are grappling with persistent cost pressures—from inflation and higher interest rates to rising debt servicing—affecting profitability and growth. Many are expecting further increases in operating expenses.
 
-2. What are the major transportation and mobility challenges?
-Why it matters: Efficient transportation reduces congestion, improves air quality, and supports economic activity.
+calgarychamber.com
++1
+newsroom.calgary.ca
+calgarychamber.com
 
-Sub-questions:
+Confidence in supply chains has significantly dropped, largely due to labor disruptions across rail, air, and port systems.
 
-Where are the bottlenecks in traffic?
+calgarychamber.com
 
-How effective is public transportation?
+2. Labour Shortages & Talent Constraints
 
-Are there underserved areas?
+Chronic labor shortages continue to limit business expansion and investment, particularly with small businesses facing sharper challenges.
 
-Key data sources: Traffic sensors, public transit usage, ride-share data, city maps.
+calgarychamber.com
+edpnc-thrive.com
 
-3. How can city resources (like water, electricity, waste management) be optimized?
-Why it matters: Efficient resource use ensures sustainability and cost savings, and it prevents shortages or outages.
+Calgary's business leaders are calling for improved immigration pathways, up‑skilling, and post-secondary collaboration to address talent gaps.
 
-Sub-questions:
+calgarychamber.com
+edpnc-thrive.com
 
-Which areas consume the most resources and why?
+3. Real Estate Glut & Downtown Revitalization
 
-Are there inefficiencies or leakages in distribution?
+A surplus of downtown office space has depressed property values and undermined municipal tax revenues. In response, Calgary has offered generous subsidies (C$75/sq ft) for converting office buildings into residential units. Early projects show promise but are hindered by escalating construction costs.
 
-Key data sources: Utility usage logs, IoT devices, satellite imagery, billing data.
+The Wall Street Journal
 
-4. What are the economic trends, and where are job opportunities concentrated?
-Why it matters: Economic development planning depends on understanding employment, business growth, and income levels.
+Repurposing older buildings also entails structural challenges, as seen in past retrofit efforts.
 
-Sub-questions:
+Reddit
 
-Which sectors are growing or declining?
+4. Infrastructure Delays & Major Project Uncertainty
 
-Where is unemployment highest?
+Key infrastructure projects face postponement or uncertainty. For instance, the Green Line LRT project was halted in 2024 due to the provincial government withdrawing its funding, though construction has now resumed with groundbreaking in June 2025.
 
-Key data sources: Tax data, employment records, business registrations, local surveys.
+Wikipedia
++1
 
-5. Where are the public health and safety risks concentrated?
-Why it matters: Public health, crime, and emergency response are foundational to a livable city.
+Additionally, delays in municipal capital spending—nearly C$900 million—are affecting services like water systems, community transit, and event space construction.
 
-Sub-questions:
+Reddit
++1
 
-Which neighborhoods have higher rates of illness, accidents, or crime?
+5. Public Safety, Housing Affordability & Climate Risks
 
-Are services like hospitals or fire departments optimally located?
+Concerns about public safety—particularly downtown crime such as commercial robberies—are dampening civic vibrancy and consumer confidence.
 
-Key data sources: Hospital records, crime reports, EMS response data, environmental sensors. 
+calgarychamber.com
+Reddit
+
+Affordability remains a pressing issue: a significant portion of Calgary households spend more than 30% of their income on housing, with many facing rental cost burdens that put them at risk of homelessness.
+
+Wikipedia
+
+Climate-related extremes—such as the catastrophic 2024 hailstorm—have imposed massive insured losses and underscore growing operational risks for businesses.
+
+Reuters
