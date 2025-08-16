@@ -8,6 +8,11 @@ Liscence URL:	https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa
 Obtained from:
 https://data.calgary.ca/Business-and-Economic-Activity/2024-Mid-Year-Progress-Report-Performance-Measures/2tzz-grag/about_data
 
+
+The City of Calgary's 2024 Mid-Year Progress Update provides an overview of our achievements and challenges during the first half of the year as we continue implementing the 2023-2026 Service Plans and Budgets.
+
+- Performance measures - details on how actual performance compares against the Council-approved expected future performance.
+  ---------------------------------------------------------
 How can I help the city of Calgary improve itself with this dataset? What issues are we constanltly facing and how can we fix it in a timely manner? What is this data telling us? What are we doing well?  
 After this analysi, what steps should we take to help excute the City's goal what is crucial to set these goals?  
 
