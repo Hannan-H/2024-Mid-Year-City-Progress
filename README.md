@@ -21,7 +21,8 @@ Can you solve business plans with Data???
 ---------------------------------------------------------------
    **What are some trends and patterns you notice in the dataset??**
    
-  
+  - Some housing plans are not progressing as planned this could relate to the housing crisis that the city of calgary is facing. Some of these plans won't be executed until 2026.
+  - 
 
 
 ---------------------------------------------------------------
