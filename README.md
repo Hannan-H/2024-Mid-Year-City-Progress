@@ -5,6 +5,9 @@ Data analysis of the 2024 Mid-Year Progress of Calgary's Budget performance meas
 This data:
 Liscence URL:	https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa  
 
+Obtained from:
+https://data.calgary.ca/Business-and-Economic-Activity/2024-Mid-Year-Progress-Report-Performance-Measures/2tzz-grag/about_data
+
 How can I help the city of Calgary improve itself with this dataset? What issues are we constanltly facing and how can we fix it in a timely manner? What is this data telling us? What are we doing well?  
 After this analysi, what steps should we take to help excute the City's goal what is crucial to set these goals?  
 
