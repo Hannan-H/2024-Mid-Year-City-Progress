@@ -42,7 +42,7 @@ What you should inlude:
 2. Build a consulting style slide deck with your data.
 
 
-Cleaned data by removing null values because they were not reported on and don't offer any important insights.
+----------------------------------------------------------------------
 1. Rising Costs, Inflation & Supply Chain Instability
 
 Calgary businesses are grappling with persistent cost pressures—from inflation and higher interest rates to rising debt servicing—affecting profitability and growth. Many are expecting further increases in operating expenses.
