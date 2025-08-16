@@ -5,7 +5,7 @@ Data analysis of the 2024 Mid-Year Progress of Calgary's Budget performance meas
 This data:
 Liscence URL:	https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa  
 
-How can I help the city of Calgary improve itself with this dataset? What issues are we constanltly facing and how can we fix it in a timely manner. What is this data telling us? What are we doing well?  
+How can I help the city of Calgary improve itself with this dataset? What issues are we constanltly facing and how can we fix it in a timely manner? What is this data telling us? What are we doing well?  
 After this analysi, what steps should we take to help excute the City's goal what is crucial to set these goals?  
 
 Use Tablue public to filter the data and answer business problems. Then display this on linked in to showcase your skills. This project will have a 5/5 ROI 
