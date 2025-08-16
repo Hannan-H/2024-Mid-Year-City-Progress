@@ -37,7 +37,7 @@ What you should inlude:
 -  interactivity: (filters, dropdowns, and tooltips in a clean layout using smart colour and no fluff)
 -  tools dont matter you can use excel, tableau, powerBI, all of these are fine.
 -  What matters is this dashboard should drive action.
--  Simple dashboard with sharp KPI(key performance indicator) focus.
+-  Simple dashboard with sharp KPI(key performance indicator) focus. Show that you know how to tell a story with data.
 
 2. Build a consulting style slide deck with your data.
 
