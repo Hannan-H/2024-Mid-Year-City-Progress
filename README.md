@@ -30,6 +30,10 @@ Can you solve business plans with Data???
 Make sure you talk about what skills you used for this project so you can put it on your resume when you go to the Career fair.
 
 Steps: 
+Create a functional buisness dashboard: Use it to explain performance. (Basic is the problem, useless is)
+What you should inlude:
+- A clear business objective
+-  3-5 powerful metrics
 Cleaned data by removing null values because they were not reported on and don't offer any important insights.
 1. Rising Costs, Inflation & Supply Chain Instability
 
