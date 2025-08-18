@@ -8,6 +8,7 @@ Liscence URL:	https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa
 Obtained from:
 https://data.calgary.ca/Business-and-Economic-Activity/2024-Mid-Year-Progress-Report-Performance-Measures/2tzz-grag/about_data
 
+Owner: City of Calgary
 
 The City of Calgary's 2024 Mid-Year Progress Update provides an overview of our achievements and challenges during the first half of the year as we continue implementing the 2023-2026 Service Plans and Budgets.
 
