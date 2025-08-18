@@ -17,7 +17,7 @@ The City of Calgary's 2024 Mid-Year Progress Update provides an overview of our 
 
 # So how do these Performance issues compare with the issues that the city of Calgary is Facing NOW? What steps can be recommended looking forward??
 How can I help the city of Calgary improve itself with this dataset? What issues are we constanltly facing and how can we fix it in a timely manner? What is this data telling us? What are we doing well?  
-After this analysi, what steps should we take to help excute the City's goal what is crucial to set these goals?  
+After this analysis, what steps should we take to help excute the City's goal what is crucial to set these goals?  
 
 Use Tablue public to filter the data and answer business problems. Then display this on linked in to showcase your skills. This project will have a 5/5 ROI 
 You're not just reporting you are RECOMMENDING. Find trends or pattersns. the data acan be messy or clean. Then present it in a way that answers bisuness problems.
@@ -41,7 +41,7 @@ Can you solve business plans with Data???
 Make sure you talk about what skills you used for this project so you can put it on your resume when you go to the Career fair.
 
 Steps: 
-1. Create a functional buisness dashboard: Use it to explain performance. (Basic is the problem, useless is)
+1. Create a functional buisness dashboard: Use it to explain performance. (Basic is not the problem, useless is)
 What you should inlude:
 - A clear business objective
 -  3-5 powerful metrics
