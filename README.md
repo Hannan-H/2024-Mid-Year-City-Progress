@@ -1,8 +1,8 @@
 # 2024-Mid-Year-City-Progress
-Contains information licensed under the Open Government Licence – City of Calgary. Data analysis of the 2024 Mid-Year Progress of Calgary's Budget performance measures. All data is owned by the City of Calgary and is used under the Open Government Licence. 
-Data Licence URL: https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa
-For more information visit: https://data.calgary.ca/stories/s/u45n-7awa
-I am not endorsed by the City of Calgary, this data is simply used for learning purposes. This is NOT an official analysis from the City of Calgary.
+Contains information licensed under the Open Government Licence – City of Calgary. Data analysis of the 2024 Mid-Year Progress of Calgary's Budget performance measures. All data is owned by the City of Calgary and is used under the Open Government Licence.   
+Data Licence URL: https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa  
+For more information visit: https://data.calgary.ca/stories/s/u45n-7awa  
+I am not endorsed by the City of Calgary, this data is simply used for learning purposes. This is NOT an official analysis from the City of Calgary.  
 
 Obtained from:
 https://data.calgary.ca/Business-and-Economic-Activity/2024-Mid-Year-Progress-Report-Performance-Measures/2tzz-grag/about_data
