@@ -12,6 +12,7 @@ The City of Calgary's 2024 Mid-Year Progress Update provides an overview of our 
 
 - Performance measures - details on how actual performance compares against the Council-approved expected future performance.
   ---------------------------------------------------------
+Tools used: Microsoft Excel, Google Slides, Microsoft SQL Server Management Studio, Microsoft Power BI 
 Steps: I imported the CSV data to Microsoft SQL Server Management Studio. 
   Then I used DAX to count how many plans were complete, progressing or incomplete.
 # So how do these Performance issues compare with the issues that the city of Calgary is Facing NOW? What steps can be recommended looking forward??
