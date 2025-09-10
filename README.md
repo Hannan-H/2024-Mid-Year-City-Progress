@@ -1,4 +1,4 @@
-# 2024-Mid-Year-City-Progress
+# 2024 Mid-Year City Progress
 
 
 <img width="1614" height="907" alt="image" src="https://github.com/user-attachments/assets/fd09214f-ddca-47fc-bdd9-51712a74bb74" />
