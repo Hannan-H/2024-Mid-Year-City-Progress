@@ -1,4 +1,4 @@
-2024 Mid-Year City Progress – Data Analysis
+# 2024 Mid-Year City Progress – Data Analysis
 
 ![City Progress Dashboard](https://github.com/user-attachments/assets/b55333ed-d30b-48f3-8b8d-a10c859c5f69)
 
