@@ -57,7 +57,7 @@ This project presents an independent analysis of Calgary's 2024 Mid-Year City Pr
 
 - **2023 vs. 2024 Trends:**  
   - Substantial decrease in reported service values compared to 2023, indicating stalled or delayed initiatives.
-  - City is strategizing for increased investment in transit, water/recycling, and affordable housing for future years.
+  - The city is strategizing for increased investment in transit, water/recycling, and affordable housing for future years.
 
 - **Data Limitations:**  
   - The analysis is restricted to public data; some metrics are incomplete or outdated.
