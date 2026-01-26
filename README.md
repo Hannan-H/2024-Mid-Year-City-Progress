@@ -65,15 +65,12 @@ This project presents an independent analysis of Calgary's 2024 Mid-Year City Pr
 
 ---
 
-## Impact & Recommendations
+## Impact 
 
 - **Actionable Insights:**  
   - Highlighted urgent needs in public transit, water/recycling services, and affordable housing.
   - Identified the gap between council priorities and resident concerns.
   - Informed future strategies for service value increases in key sectors.
-
-- **Policy Relevance:**  
-  - Findings support evidence-based recommendations for municipal decision-makers and stakeholders.
 
 ---
 
