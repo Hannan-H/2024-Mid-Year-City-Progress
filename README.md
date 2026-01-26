@@ -102,4 +102,4 @@ This project is an independent analysis based solely on publicly available data 
 
 ## Contact
 
-For questions, collaboration, or feedback, please reach out via [GitHub Issues](https://github.com/Hannan-H/2024-Mid-Year-City-Progress/issues) or connect with me on [Connect with me on LinkedIn](https://www.linkedin.com/in/hannanhassan/)
+For questions, collaboration, or feedback, please reach out via [GitHub Issues](https://github.com/Hannan-H/2024-Mid-Year-City-Progress/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/hannanhassan/)
