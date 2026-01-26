@@ -22,7 +22,7 @@ This project presents an independent analysis of Calgary's 2024 Mid-Year City Pr
 
 - **Source:** [City of Calgary Open Data Portal](https://data.calgary.ca/Business-and-Economic-Activity/2024-Mid-Year-Progress-Report-Performance-Measures/2tzz-grag/about_data)
 - **Latest Update:** November 5, 2024
-- **Licence:** [Open Government Licence – City of Calgary](https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa)
+- **Licence:** [Open Government Licence – City of Calgary](https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa/)
 - **More Information:** [City Progress Story](https://data.calgary.ca/stories/s/u45n-7awa)
 
 ---
