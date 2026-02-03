@@ -79,7 +79,7 @@ This project presents an independent analysis of Calgary's 2024 Mid-Year City Pr
 - **Data Extraction & ETL:** SQL, CSV data wrangling
 - **Data Visualization:** Power BI dashboards, Excel charts
 - **Analytical Reasoning:** Trend analysis, policy impact assessment
-- **Communication:** Dashboard design, structured reporting, actionable recommendations
+- **Communication:** Dashboard design, structured reporting
 
 ---
 
